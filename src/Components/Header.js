@@ -10,8 +10,8 @@ const Header =()=> {
   return (
     <div>
       
-        <p className='para'>siet</p>
-     <button onClick={()=>click('vishnu')}>click me</button>
+        <p className='para'>shridevi institue of engineering and technology</p>
+    
     </div>
   )
   }
